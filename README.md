@@ -1,1 +1,1 @@
-# js-jogopong
+# js-palavras
